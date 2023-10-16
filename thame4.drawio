@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-16T05:06:50.038Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="b3KbLq21q12PyQlNbQJr" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-16T05:08:57.555Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="-l_I076lM2aRNF7l2uCx" version="22.0.4" type="github">
   <diagram name="ページ1" id="Fhj4VL8P5irLUN121ERm">
-    <mxGraphModel dx="1568" dy="1577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1697" dy="1648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -259,9 +259,6 @@
         <mxCell id="pKBu_QRomxt_2EIybnSE-93" value="" style="whiteSpace=wrap;html=1;rotation=90;fillColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="510" y="755" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="pKBu_QRomxt_2EIybnSE-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="pKBu_QRomxt_2EIybnSE-94" target="pKBu_QRomxt_2EIybnSE-93">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="pKBu_QRomxt_2EIybnSE-94" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.signal_sources.protective_earth;" vertex="1" parent="1">
           <mxGeometry x="480" y="800" width="25" height="20" as="geometry" />
         </mxCell>
@@ -346,11 +343,17 @@
         <mxCell id="pKBu_QRomxt_2EIybnSE-136" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;ド(C5)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="140" y="890" width="50" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="pKBu_QRomxt_2EIybnSE-164" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pKBu_QRomxt_2EIybnSE-137" target="pKBu_QRomxt_2EIybnSE-138">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pKBu_QRomxt_2EIybnSE-137" value="PS1&lt;br&gt;(1kHz)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-85" y="20" width="50" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="pKBu_QRomxt_2EIybnSE-165" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pKBu_QRomxt_2EIybnSE-138" target="pKBu_QRomxt_2EIybnSE-141">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pKBu_QRomxt_2EIybnSE-138" value="カウンタ1&lt;br&gt;0~3" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="5" y="10" width="60" height="60" as="geometry" />
+          <mxGeometry x="5" y="15" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pKBu_QRomxt_2EIybnSE-139" value="clk" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-235" y="-25" width="40" height="30" as="geometry" />
@@ -358,11 +361,14 @@
         <mxCell id="pKBu_QRomxt_2EIybnSE-140" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-155" y="-110" width="40" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="pKBu_QRomxt_2EIybnSE-166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="pKBu_QRomxt_2EIybnSE-141" target="pKBu_QRomxt_2EIybnSE-154">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pKBu_QRomxt_2EIybnSE-141" value="MX" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.22499999999999998;arcSize=10;flipV=1;labelPosition=center;align=center;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="-14.379999999999995" y="130" width="98.75" height="35" as="geometry" />
         </mxCell>
         <mxCell id="pKBu_QRomxt_2EIybnSE-142" value="Tone _val" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="80" y="165" width="70" height="30" as="geometry" />
+          <mxGeometry x="90" y="150" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pKBu_QRomxt_2EIybnSE-143" value="sw[0]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-240" y="-105" width="50" height="30" as="geometry" />
@@ -388,8 +394,14 @@
         <mxCell id="pKBu_QRomxt_2EIybnSE-150" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.signal_sources.protective_earth;" vertex="1" parent="1">
           <mxGeometry x="350" width="25" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="pKBu_QRomxt_2EIybnSE-167" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pKBu_QRomxt_2EIybnSE-151" target="pKBu_QRomxt_2EIybnSE-152">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pKBu_QRomxt_2EIybnSE-151" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.logic_gate;operation=and;negating=1;negSize=0.15;" vertex="1" parent="1">
           <mxGeometry x="220" y="-45" width="51.25" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pKBu_QRomxt_2EIybnSE-169" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="pKBu_QRomxt_2EIybnSE-152" target="pKBu_QRomxt_2EIybnSE-146">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pKBu_QRomxt_2EIybnSE-152" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="290" y="-50" width="40" height="40" as="geometry" />
@@ -428,6 +440,12 @@
         </mxCell>
         <mxCell id="pKBu_QRomxt_2EIybnSE-159" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
           <mxGeometry x="-115" y="-20" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pKBu_QRomxt_2EIybnSE-171" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pKBu_QRomxt_2EIybnSE-146" target="pKBu_QRomxt_2EIybnSE-150">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pKBu_QRomxt_2EIybnSE-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pKBu_QRomxt_2EIybnSE-93" target="pKBu_QRomxt_2EIybnSE-94">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
