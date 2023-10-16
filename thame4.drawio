@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-16T04:29:00.915Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="jOGtKji0uPY4x0jY1B1H" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-16T04:30:31.985Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="ud1WTKOdCPm9gBMrO6JT" version="22.0.4" type="github">
   <diagram name="ページ1" id="Fhj4VL8P5irLUN121ERm">
     <mxGraphModel dx="2046" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -219,16 +219,19 @@
           <mxGeometry x="50" y="745" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pKBu_QRomxt_2EIybnSE-86" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="50" y="850" width="40" height="40" as="geometry" />
+          <mxGeometry x="50" y="880" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pKBu_QRomxt_2EIybnSE-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pKBu_QRomxt_2EIybnSE-87" target="pKBu_QRomxt_2EIybnSE-86">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pKBu_QRomxt_2EIybnSE-87" value="sw[7:0]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="855" width="60" height="30" as="geometry" />
+          <mxGeometry x="-40" y="885" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pKBu_QRomxt_2EIybnSE-89" value="入力" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="10" y="840" width="50" height="30" as="geometry" />
+          <mxGeometry x="10" y="870" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pKBu_QRomxt_2EIybnSE-90" value="MX" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.22499999999999998;arcSize=10;flipV=1;labelPosition=center;align=center;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="160" y="820" width="72.5" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
