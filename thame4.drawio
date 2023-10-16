@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-16T04:36:23.215Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="x43-pqivD1PrGxaQp6yX" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-16T04:54:05.209Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="-greFin9XBpGauNG-Gy-" version="22.0.4" type="github">
   <diagram name="ページ1" id="Fhj4VL8P5irLUN121ERm">
     <mxGraphModel dx="1881" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -204,22 +204,20 @@
         <mxCell id="pKBu_QRomxt_2EIybnSE-31" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="60" y="440" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pKBu_QRomxt_2EIybnSE-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pKBu_QRomxt_2EIybnSE-81">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="50" y="765" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="pKBu_QRomxt_2EIybnSE-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pKBu_QRomxt_2EIybnSE-81" target="pKBu_QRomxt_2EIybnSE-85">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pKBu_QRomxt_2EIybnSE-81" value="clk" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="750" width="40" height="30" as="geometry" />
+          <mxGeometry y="750" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pKBu_QRomxt_2EIybnSE-83" value="入力" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="10" y="740" width="50" height="30" as="geometry" />
+          <mxGeometry x="40" y="740" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pKBu_QRomxt_2EIybnSE-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pKBu_QRomxt_2EIybnSE-85" target="pKBu_QRomxt_2EIybnSE-91">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pKBu_QRomxt_2EIybnSE-85" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="50" y="745" width="40" height="40" as="geometry" />
+          <mxGeometry x="90" y="745" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pKBu_QRomxt_2EIybnSE-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="pKBu_QRomxt_2EIybnSE-86" target="pKBu_QRomxt_2EIybnSE-90">
           <mxGeometry relative="1" as="geometry">
@@ -227,16 +225,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pKBu_QRomxt_2EIybnSE-86" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="50" y="910" width="40" height="40" as="geometry" />
+          <mxGeometry x="90" y="935" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pKBu_QRomxt_2EIybnSE-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pKBu_QRomxt_2EIybnSE-87" target="pKBu_QRomxt_2EIybnSE-86">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pKBu_QRomxt_2EIybnSE-87" value="sw[7:0]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="915" width="60" height="30" as="geometry" />
+          <mxGeometry x="-10" y="940" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pKBu_QRomxt_2EIybnSE-89" value="入力" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="10" y="900" width="50" height="30" as="geometry" />
+          <mxGeometry x="40" y="920" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pKBu_QRomxt_2EIybnSE-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="pKBu_QRomxt_2EIybnSE-90" target="pKBu_QRomxt_2EIybnSE-91">
           <mxGeometry relative="1" as="geometry">
@@ -244,7 +242,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pKBu_QRomxt_2EIybnSE-90" value="MX" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.22499999999999998;arcSize=10;flipV=1;labelPosition=center;align=center;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="145" y="835" width="102.5" height="35" as="geometry" />
+          <mxGeometry x="132.5" y="847.5" width="127.5" height="35" as="geometry" />
         </mxCell>
         <mxCell id="pKBu_QRomxt_2EIybnSE-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pKBu_QRomxt_2EIybnSE-91" target="pKBu_QRomxt_2EIybnSE-92">
           <mxGeometry relative="1" as="geometry" />
@@ -266,6 +264,78 @@
         </mxCell>
         <mxCell id="pKBu_QRomxt_2EIybnSE-94" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.signal_sources.protective_earth;" vertex="1" parent="1">
           <mxGeometry x="480" y="800" width="25" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pKBu_QRomxt_2EIybnSE-103" value="Tone _val" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="290" y="852.5" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pKBu_QRomxt_2EIybnSE-104" value="Tone" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="730" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pKBu_QRomxt_2EIybnSE-105" value="出力&lt;br&gt;JC[0]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="455" y="715" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pKBu_QRomxt_2EIybnSE-106" value="ブザー" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="530" y="725" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pKBu_QRomxt_2EIybnSE-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.936;entryY=1.053;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pKBu_QRomxt_2EIybnSE-107" target="pKBu_QRomxt_2EIybnSE-90">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="805" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pKBu_QRomxt_2EIybnSE-107" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;ド(C5)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="790" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pKBu_QRomxt_2EIybnSE-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pKBu_QRomxt_2EIybnSE-115" target="pKBu_QRomxt_2EIybnSE-90">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="835" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pKBu_QRomxt_2EIybnSE-115" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;ミ(E5)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="820" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pKBu_QRomxt_2EIybnSE-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.853;entryY=0.933;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pKBu_QRomxt_2EIybnSE-116" target="pKBu_QRomxt_2EIybnSE-90">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pKBu_QRomxt_2EIybnSE-116" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;レ(D5)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="805" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pKBu_QRomxt_2EIybnSE-117" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;ラ(A5)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="865" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pKBu_QRomxt_2EIybnSE-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.622;entryY=1.023;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pKBu_QRomxt_2EIybnSE-118" target="pKBu_QRomxt_2EIybnSE-90">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pKBu_QRomxt_2EIybnSE-118" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;ファ(F5)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="35" y="835" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pKBu_QRomxt_2EIybnSE-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pKBu_QRomxt_2EIybnSE-119" target="pKBu_QRomxt_2EIybnSE-90">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="865" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pKBu_QRomxt_2EIybnSE-119" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;ソ(G5)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="849.5" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pKBu_QRomxt_2EIybnSE-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pKBu_QRomxt_2EIybnSE-120" target="pKBu_QRomxt_2EIybnSE-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pKBu_QRomxt_2EIybnSE-120" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;シ(B5)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="879.5" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pKBu_QRomxt_2EIybnSE-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.151;entryY=1.023;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pKBu_QRomxt_2EIybnSE-121" target="pKBu_QRomxt_2EIybnSE-90">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pKBu_QRomxt_2EIybnSE-121" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;ド(C6)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="895" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pKBu_QRomxt_2EIybnSE-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.382;entryY=1.053;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pKBu_QRomxt_2EIybnSE-117" target="pKBu_QRomxt_2EIybnSE-90">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
